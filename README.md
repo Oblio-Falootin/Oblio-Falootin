@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+> A point in every direction is the same as no point at all ~ Harry Nilsson
+
 <!--
 **Oblio-Falootin/Oblio-Falootin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
